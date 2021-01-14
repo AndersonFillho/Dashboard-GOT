@@ -1,0 +1,74 @@
+episodios_id;temporada;episodio;titulo;classificacao;escritor_1;escritor_2;principal_1;principal_2;principal_3;review_usuario;review_critica;audiencia;duracao;diretor
+1;1;1;Winter Is Coming;9.1;David Benioff;D.B. Weiss;78;101;7;27;28;2.2;56;Timothy Van Patten
+2;1;2;The Kingsroad;8.8;David Benioff;D.B. Weiss;78;101;7;27;28;2.2;56;Timothy Van Patten
+3;1;3;Lord Snow;8.7;David Benioff;D.B. Weiss;78;101;7;22;26;2.45;56;Timothy Van Patten
+4;1;4;Cripples, Bastards, and Broken Things;8.8;David Benioff;D.B. Weiss;78;101;7;22;26;2.45;56;Brian Kirk
+5;1;5;The Wolf and the Lion;9.1;David Benioff;D.B. Weiss;78;101;7;24;26;2.58;55;Brian Kirk
+6;1;6;A Golden Crown;9.2;David Benioff;D.B. Weiss;78;101;29;23;26;2.44;53;Daniel Minahan
+7;1;7;You Win or You Die;9.2;David Benioff;D.B. Weiss;78;101;7;21;27;2.4;58;Daniel Minahan
+8;1;8;The Pointy End;9;David Benioff;D.B. Weiss;78;101;7;30;29;2.66;57;Daniel Minahan
+9;1;9;Baelor;9.6;David Benioff;D.B. Weiss;78;29;7;30;29;2.66;57;Alan Taylor
+10;1;10;Fire and Blood;9.5;David Benioff;D.B. Weiss;78;29;7;34;29;3.04;53;Alan Taylor
+11;2;1;The North Remembers;8.8;George R.R. Martin;David Benioff;1;2;7;22;29;3.86;53;Alan Taylor
+12;2;2;The Night Lands;8.5;George R.R. Martin;David Benioff;1;2;3;19;25;3.76;54;Alan Taylor
+13;2;3;What Is Dead May Never Die;8.8;George R.R. Martin;David Benioff;1;2;29;15;25;3.77;53;Alik Sakharov
+14;2;4;Garden of Bones;8.8;George R.R. Martin;David Benioff;1;29;3;19;24;3.65;51;David Petrarca
+15;2;5;The Ghost of Harrenhal;8.8;George R.R. Martin;David Benioff;1;2;29;14;25;3.9;55;David Petrarca
+16;2;6;The Old Gods and the New;9.1;George R.R. Martin;David Benioff;1;2;29;20;25;3.88;54;David Nutter
+17;2;7;A Man Without Honor;8.9;George R.R. Martin;David Benioff;1;2;7;14;24;3.69;56;David Nutter
+18;2;8;The Prince of Winterfell;8.8;George R.R. Martin;David Benioff;1;2;7;13;25;3.86;54;Alan Taylor
+19;2;9;Blackwater;9.7;George R.R. Martin;David Benioff;1;2;25;34;24;3.38;55;Neil Marshall
+20;2;10;Valar Morghulis;9.4;George R.R. Martin;David Benioff;1;2;7;27;24;4.2;64;Alan Taylor
+21;3;1;Valar Dohaeris;8.8;George R.R. Martin;David Benioff;1;2;3;19;36;4.37;55;Daniel Minahan
+22;3;2;Dark Wings, Dark Words;8.6;George R.R. Martin;David Benioff;1;7;2;18;30;4.27;56;Daniel Minahan
+23;3;3;Walk of Punishment;8.9;George R.R. Martin;David Benioff;1;7;2;21;29;4.72;56;David Benioff
+24;3;4;And Now His Watch Is Ended;9.6;George R.R. Martin;David Benioff;1;7;2;25;28;4.87;53;Alex Graves
+25;3;5;Kissed by Fire;9;George R.R. Martin;David Benioff;1;7;2;15;30;5.35;57;Alex Graves
+26;3;6;The Climb;8.8;George R.R. Martin;David Benioff;1;7;2;13;27;5.5;53;Alik Sakharov
+27;3;7;The Bear and the Maiden Fair;8.7;George R.R. Martin;David Benioff;1;7;3;19;27;4.84;58;Michelle MacLaren
+28;3;8;Second Sons;9;George R.R. Martin;David Benioff;1;2;3;16;30;5.13;56;Michelle MacLaren
+29;3;9;The Rains of Castamere;9.9;George R.R. Martin;David Benioff;3;4;36;106;29;5.22;51;David Nutter
+30;3;10;Mhysa;9.2;George R.R. Martin;David Benioff;1;7;2;21;29;5.39;63;David Nutter
+31;4;1;Two Swords;9.1;George R.R. Martin;David Benioff;1;7;2;23;38;6.64;58;D.B. Weiss
+32;4;2;The Lion and the Rose;9.7;George R.R. Martin;David Benioff;1;7;2;30;34;6.31;52;Alex Graves
+33;4;3;Breaker of Chains;8.9;George R.R. Martin;David Benioff;1;7;2;15;32;6.59;57;Alex Graves
+34;4;4;Oathkeeper;8.8;George R.R. Martin;David Benioff;1;7;2;25;32;6.95;55;Michelle MacLaren
+35;4;5;First of His Name;8.7;George R.R. Martin;David Benioff;7;2;3;19;31;7.16;53;Michelle MacLaren
+36;4;6;The Laws of Gods and Men;9.7;George R.R. Martin;David Benioff;1;7;2;42;29;6.4;51;Alik Sakharov
+37;4;7;Mockingbird;9.1;George R.R. Martin;David Benioff;1;7;2;19;27;7.2;51;Alik Sakharov
+38;4;8;The Mountain and the Viper;9.7;George R.R. Martin;David Benioff;1;7;2;58;28;7.17;52;Alex Graves
+39;4;9;The Watchers on the Wall;9.6;George R.R. Martin;David Benioff;4;9;26;46;27;6.95;51;Neil Marshall
+40;4;10;The Children;9.7;George R.R. Martin;David Benioff;1;7;2;41;26;7.09;65;Alex Graves
+41;5;1;The Wars to Come;8.5;George R.R. Martin;David Benioff;1;7;2;28;45;8;53;Michael Slovis
+42;5;2;The House of Black and White;8.5;George R.R. Martin;David Benioff;1;7;2;17;36;6.81;56;Michael Slovis
+43;5;3;High Sparrow;8.5;George R.R. Martin;David Benioff;1;2;4;18;36;6.71;60;Mark Mylod
+44;5;4;Sons of the Harpy;8.7;George R.R. Martin;David Benioff;1;7;2;19;35;6.82;51;Mark Mylod
+45;5;5;Kill the Boy;8.6;George R.R. Martin;David Benioff;1;3;4;20;35;6.56;57;Jeremy Podeswa
+46;5;6;Unbowed, Unbent, Unbroken;8;George R.R. Martin;David Benioff;1;7;2;43;37;6.24;54;Jeremy Podeswa
+47;5;7;The Gift;9;George R.R. Martin;David Benioff;1;7;2;16;37;5.4;59;Miguel Sapochnik
+48;5;8;Hardhome;9.9;George R.R. Martin;David Benioff;1;2;3;89;36;7.01;61;Miguel Sapochnik
+49;5;9;The Dance of Dragons;9.5;George R.R. Martin;David Benioff;1;7;3;53;34;7.14;52;David Nutter
+50;5;10;Mother's Mercy;9.1;George R.R. Martin;David Benioff;1;7;2;110;35;8.11;60;David Nutter
+51;6;1;The Red Woman;8.5;George R.R. Martin;David Benioff;1;7;2;64;52;7.94;50;Jeremy Podeswa
+52;6;2;Home;9.4;George R.R. Martin;David Benioff;1;7;2;51;49;7.29;54;Jeremy Podeswa
+53;6;3;Oathbreaker;8.7;George R.R. Martin;David Benioff;1;7;2;26;48;7.28;52;Daniel Sackheim
+54;6;4;Book of the Stranger;9.1;George R.R. Martin;David Benioff;1;7;2;29;47;7.82;59;Daniel Sackheim
+55;6;5;The Door;9.7;George R.R. Martin;David Benioff;1;3;4;53;46;7.89;57;Jack Bender
+56;6;6;Blood of My Blood;8.4;George R.R. Martin;David Benioff;7;2;3;36;40;6.71;52;Jack Bender
+57;6;7;The Broken Man;8.6;George R.R. Martin;David Benioff;7;2;4;28;43;7.8;51;Mark Mylod
+58;6;8;No One;8.4;George R.R. Martin;David Benioff;1;7;2;68;43;7.6;59;Mark Mylod
+59;6;9;Battle of the Bastards;9.9;George R.R. Martin;David Benioff;1;4;3;253;49;7.66;60;Miguel Sapochnik
+60;6;10;The Winds of Winter;9.9;George R.R. Martin;David Benioff;1;7;2;182;46;8.89;68;Miguel Sapochnik
+61;7;1;Dragonstone;8.6;George R.R. Martin;David Benioff;1;7;2;88;66;10.11;59;Jeremy Podeswa
+62;7;2;Stormborn;8.9;George R.R. Martin;David Benioff;1;7;2;54;55;9.27;59;Mark Mylod
+63;7;3;The Queen's Justice;9.2;George R.R. Martin;David Benioff;1;7;2;49;53;9.25;63;Mark Mylod
+64;7;4;The Spoils of War;9.8;George R.R. Martin;David Benioff;1;7;2;94;53;10.17;50;Matt Shakman
+65;7;5;Eastwatch;8.8;George R.R. Martin;David Benioff;1;3;4;94;53;10.17;50;Matt Shakman
+66;7;6;Beyond the Wall;9;George R.R. Martin;David Benioff;1;3;4;181;52;10.24;70;Alan Taylor
+67;7;7;The Dragon and the Wolf;9.4;George R.R. Martin;David Benioff;1;7;2;133;48;12.07;80;Jeremy Podeswa
+68;8;1;Winterfell;7.6;George R.R. Martin;David Benioff;1;7;2;655;71;11.76;54;David Nutter
+69;8;2;A Knight of the Seven Kingdoms;7.9;George R.R. Martin;David Benioff;1;7;3;537;59;10.29;58;David Nutter
+70;8;3;The Long Night;7.5;George R.R. Martin;David Benioff;1;7;3;3749;71;12.02;82;Miguel Sapochnik
+71;8;4;The Last of the Starks;5.5;George R.R. Martin;David Benioff;1;7;2;2277;62;11.8;78;David Nutter
+72;8;5;The Bells;6;George R.R. Martin;David Benioff;1;7;2;3906;61;12.48;78;Miguel Sapochnik
+73;8;6;The Iron Throne;4.1;George R.R. Martin;David Benioff;1;7;2;7358;70;13.61;80;David Benioff

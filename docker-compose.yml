@@ -1,0 +1,19 @@
+version: "2"
+services:
+  mysql:
+    image: mysql:8.0
+    env_file: .env
+    hostname: mysql
+    volumes:
+      - ./mysql:/var/lib/mysql
+    ports:
+      - "3306:3306/tcp"
+  metabase:
+    image: metabase/metabase:latest
+    env_file: .env
+    ports:
+      - "3000:3000/tcp"
+    volumes:
+      - ./metabase-data:/metabase-data
+    links:
+      - mysql
